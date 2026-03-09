@@ -100,14 +100,6 @@ Think of it like asking a smart assistant to look something up:
 5. **AI explains** the results back to you in plain English
 6. **You get** a friendly, conversational answer
 
-**Example:**
-```
-You: "What is the total amount for Alice?"
-🤖: "Alice has a total of $350 across her 2 orders"
-```
-
-> 📖 **Want more details?** See [HOW_IT_WORKS.md](HOW_IT_WORKS.md) for a complete simple explanation with analogies and examples.
-
 ## Configuration
 
 You can customize the Ollama model by modifying the `DuckDBAgent` initialization:
